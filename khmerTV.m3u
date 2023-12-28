@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ApsaraTV11.kh" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="Khmer:ខ្មែរ",Apsara TV11
-blob:https://netlinkbroadcaster.com/6e3d3c0b-b37a-41f6-a802-d784280455a7
+https://live.kh.malimarcdn.com/live/towntv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="Khmer:ខ្មែរ",Bayon TV
 http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BTVNews.kh" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="Khmer:ខ្មែរ",BTV News
