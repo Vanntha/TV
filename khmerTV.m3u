@@ -10,7 +10,7 @@ https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="CTV9.kh" tvg-logo="https://i.imgur.com/jgVJt2G.png" group-title="Khmer:ខ្មែរ",CTV 9
 https://live.kh.malimarcdn.com/live/tv9.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FreshNews.kh" tvg-logo="https://i.imgur.com/bV6sawt.png" group-title="Khmer:ខ្មែរ",Fresh News
-https://streaming.freshnewsasia.com/live/ngrp:myStream_all/chunklist_w685902027_b481072.m3u8
+https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="HangMeasHDTV.kh" tvg-logo="https://1.bp.blogspot.com/-APK0CVj3vjM/XP-uT_8z1RI/AAAAAAAAIDc/cTAR0sBXkx07FQfjL6EXvC1R8ozMPhRnACLcBGAs/s1600/hang-meas-hdtv-channel.png" group-title="Khmer:ខ្មែរ",Hang Meas HDTV
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="Khmer:ខ្មែរ",Rasmey Hang Meas HDTV
