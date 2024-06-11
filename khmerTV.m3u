@@ -3,7 +3,7 @@
 https://live.ams.com.kh/app/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TownHDTV.kh" tvg-logo="https://api.netlinkbroadcaster.com/uploads/Town_HDTV_7f2a0b567a.jpg" group-title="Khmer:ខ្មែរ",Town HDTV
 https://live.kh.malimarcdn.com/live/towntv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="Khmer:ខ្មែរ",Bayon TV
+#EXTINF:-1 tvg-id="BayonTV.kh" tvg-logo="https://i.malimarcdn.com/kh/premium-khmerbayonHDF.jpg" group-title="Khmer:ខ្មែរ",Bayon TV
 https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="BTVNews.kh" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="Khmer:ខ្មែរ",BTV News
 https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
